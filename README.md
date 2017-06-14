@@ -11,6 +11,7 @@ Cần 1 LinarLayout
 Tạo thêm 2 Android XML File (Để thiết kế khung hiển thị số tiền mình đang có)
 
 B3: Hiển thị bàn bầu cua
+
 Cần 1 GridView (Để load hình bàn cơ ) 
 
 Và cần tạo thêm 1 layout mới (có 1 Frame Layout và 1 Image View ,1 cái Spiner để hiển thị giá tiền khi đặt cược)
