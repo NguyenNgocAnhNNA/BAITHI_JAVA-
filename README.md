@@ -1,5 +1,6 @@
 # BAITHI_JAVA-
 Chào Thầy , sau đây em xin trình bày các bước lập trình android của game bầu cua :
+
 B1: Chuẩn bị hình ảnh (Có thể tìm kiếm trên google)
 
 B2: Thiết kế khung hiển thị tên
