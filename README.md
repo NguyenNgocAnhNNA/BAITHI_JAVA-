@@ -4,6 +4,7 @@ Chào Thầy , sau đây em xin trình bày các bước lập trình an
 B1: Chuẩn bị hình ảnh (Có thể tìm kiếm trên google)
 
 B2: Thiết kế khung hiển thị tên
+
 Cần 1 LinarLayout
 1 FrameLayout (Để chứa 1 Text View ghi số tiền và 1 Image View hình ảnh tiền)
 
